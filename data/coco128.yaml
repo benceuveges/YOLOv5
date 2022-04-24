@@ -22,4 +22,4 @@ names: ['person', 'bike', 'car', 'motor', 'dummy', 'bus', 'train', 'truck', 'dum
         'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 
         'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 
         'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'stroller', 
-        'dummy', 'dummy', 'dummy','scooter', 'dummy', 'other vehicle']  # class names
+        'dummy', 'dummy', 'dummy','scooter', 'dummy', 'other vehicle', 'dummy']  # class names
