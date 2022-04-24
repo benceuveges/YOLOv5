@@ -15,4 +15,5 @@ test:  # test images (optional)
 
 # Classes
 nc: 15  # number of classes
-names: ['person', 'bike', 'car', 'motor', 'bus', 'train', 'truck', 'light', 'hydrant', 'sign', 'dog', 'skateboard', 'stroller', 'scooter', 'other vehicle']  # class names
+names: ['person', 'bike', 'car', 'motor', 'bus', 'train', 'truck', 'light', 
+        'hydrant', 'sign', 'dog', 'skateboard', 'stroller', 'scooter', 'other vehicle']  # class names
