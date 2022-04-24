@@ -14,6 +14,12 @@ val: /content/datasets/images/val  # val images (relative to 'path') 128 images
 test:  # test images (optional)
 
 # Classes
-nc: 15  # number of classes
-names: ['person', 'bike', 'car', 'motor', 'bus', 'train', 'truck', 'light', 
-        'hydrant', 'sign', 'dog', 'skateboard', 'stroller', 'scooter', 'other vehicle']  # class names
+nc: 80  # number of classes
+names: ['person', 'bike', 'car', 'motor', 'dummy', 'bus', 'train', 'truck', 'dummy', 'light', 
+        'hydrant', 'sign', 'dummy', 'dummy', 'dummy', 'dummy', 'dog', 'dummy', 'dummy', 'dummy', 
+        'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 
+        'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'skateboard', 'dummy', 'dummy', 'dummy', 
+        'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 
+        'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 
+        'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'dummy', 'stroller', 
+        'dummy', 'dummy', 'dummy','scooter', 'dummy', 'other vehicle']  # class names
